@@ -1,0 +1,24 @@
+{
+  "schema": "project-passport/1",
+  "id": "python-print-sandbox",
+  "name": "Python Sandbox",
+  "summary": "Минимальный тестовый репозиторий: единственный скрипт при прямом запуске печатает строку Goodbay world. Предметная задача, продукт и дальнейшие планы не заданы.",
+  "kind": "experiment",
+  "workflow": {
+    "profile": "standard"
+  },
+  "repositories": [
+    {
+      "role": "primary",
+      "url": "https://github.com/ViskyG/TestRep"
+    }
+  ],
+  "tags": [
+    "python",
+    "sandbox",
+    "test"
+  ],
+  "references": {
+    "source_1": "test.py"
+  }
+}
